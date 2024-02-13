@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/selimon/ur_ws/src/depth_image_processing/build/devel/setup.sh

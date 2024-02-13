@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20230927-0108-Experimental"
+	Name="selimon-Legion-5-15ARH7"
+	Generator="ctest-3.26.4"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="selimon-Legion-5-15ARH7"
+	OSRelease="5.15.0-84-generic"
+	OSVersion="#93~20.04.1-Ubuntu SMP Wed Sep 6 16:15:40 UTC 2023"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="25"
+	ModelID="68"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="7115"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4411.76"
+	>
+	<Testing>
+		<StartDateTime>Sep 27 11:08 AEST</StartDateTime>
+		<StartTestTime>1695776937</StartTestTime>
+		<TestList/>
+		<EndDateTime>Sep 27 11:08 AEST</EndDateTime>
+		<EndTestTime>1695776937</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
