@@ -1,0 +1,8 @@
+prefix=/home/selimon/ur_ws/src/depth_image_processing/build/devel
+
+Name: depth_image_processing
+Description: Description of depth_image_processing
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
