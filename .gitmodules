@@ -1,3 +1,6 @@
 [submodule "onrobot"]
 	path = onrobot
 	url = https://github.com/Osaka-University-Harada-Laboratory/onrobot
+[submodule "rg2_simulation"]
+	path = rg2_simulation
+	url = https://github.com/ekorudiawan/rg2_simulation.git
