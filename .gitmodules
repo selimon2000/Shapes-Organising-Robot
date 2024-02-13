@@ -1,0 +1,3 @@
+[submodule "onrobot"]
+	path = onrobot
+	url = https://github.com/Osaka-University-Harada-Laboratory/onrobot
