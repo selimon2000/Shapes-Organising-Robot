@@ -4,3 +4,6 @@
 [submodule "rg2_simulation"]
 	path = rg2_simulation
 	url = https://github.com/ekorudiawan/rg2_simulation.git
+[submodule "Universal_Robots_ROS_Driver"]
+	path = Universal_Robots_ROS_Driver
+	url = https://github.com/UniversalRobots/Universal_Robots_ROS_Driver.git
