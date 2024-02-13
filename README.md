@@ -6,15 +6,12 @@ This is a project I did as part of my 'Sensors and Control' subject's major assi
 The robot used was a UR3e, with an RGB-D camera (Intel Realsense D435i), which used an OnRobot RG2 Gripper, to manipulate different 3D printed shapes.
 
 Using the depth data, I was able to ensure that the gripper could hold shapes of different sizes. Using OpenCV I was able to classify the shape so the robot could separate and organise the different shapes.
-<<<<<<< HEAD
  
 ## MoveIt!
 Using MoveIt! allowed me to have collision avoidance, and also allow me to work on this at home without the robot.
 
 ## Shape Detection
 Images are greyscaled, gaussian blurred, and thresholded to create a binary image. The image is then contoured so that the Hough Circle Algorithm can identify whether the shape is a Circle or a Rectangle.
-=======
->>>>>>> f0754a7ca71b0cce5413b008a9d55ea4e1303927
 
 ## Connections
 Both the robot and gripper used ethernet to connect to the P.C, so it was connected to a router, which was connected to my P.C.
@@ -23,10 +20,6 @@ The camera was connected to my P.C via USB. It was mounted on RG2 gripper, as it
 
 ## Code Components
 
-<<<<<<< HEAD
-
-=======
->>>>>>> f0754a7ca71b0cce5413b008a9d55ea4e1303927
 ### RGB-D Camera
 Initialise camera:
 ```bash
@@ -60,11 +53,7 @@ roslaunch ur3e_rg2_moveit_config demo_planning_execution.launch
 ```
 In the rviz window of MoveIt! find the config file to initialise the environment:
 /home/selimon/ur_ws/src/ur3e_rg2_moveit_config/config/config_with_trail_animation.rviz
-<<<<<<< HEAD
 ![Robot Image](environment_image.png)
-=======
-
->>>>>>> f0754a7ca71b0cce5413b008a9d55ea4e1303927
 
 ## Project Demonstration
 ### Demonstration
@@ -72,8 +61,4 @@ https://youtu.be/gzgtYLjqDSw
 
 ### Bottle Sorting Project (Using Soda Cans)
 A similar project was also done where I identified popular sorting cans as a project as many items (particularly alcohol bottles), are being sent back to their manufacturer so they can be reused. But first they have to be sorted to their brand:
-<<<<<<< HEAD
 https://youtu.be/UHeZQ_xx6JE
-=======
-https://youtu.be/UHeZQ_xx6JE
->>>>>>> f0754a7ca71b0cce5413b008a9d55ea4e1303927
